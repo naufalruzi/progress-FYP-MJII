@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX30102EFD_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Analog Devices", "MAX30102EFD+" (!) = "", "14-LEAD-OESIP", "Other", "700-MAX30102EFD+", "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX30102EFD%2b?qs=nVS1qgv%252BQrk9UYEvS27V%2Fg%3D%3D", "", "", "MAXIM INTEGRATED PRODUCTS - MAX30102EFD+ - PULSE OXIMETER/HEART RATE SENSOR, OESIP", "https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf"
+END_PART
+
+END.

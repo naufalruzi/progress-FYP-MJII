@@ -1,0 +1,18 @@
+.MAX30102EFD-plus- :1 ;MAXIM INTEGRATED PRODUCTS - MAX30102EFD+ - PULSE OXIMETER/HEART RATE SENSOR, OESIP
+"14-LEAD-OESIP"
+*STM IC
+*NGS
+*PLB 1="N.C._1" 2="SCL" 3="SDA" 4="PGND" 5="R_DRV" 6="IR_DRV" 7="N.C._2" 8="N.C._3" 9="VLED+_1" 10="VLED+_2" 11="VDD" 12="GND" 13="'INT'" 14="N.C._4"
+*MXP 14
+*DFN MAX30102EFD-plus-
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX30102EFD+)
+~!Mouser Part Number (700-MAX30102EFD+)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX30102EFD%2b?qs=nVS1qgv%252BQrk9UYEvS27V%2Fg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheets.maximintegrated.com/en/ds/MAX30102.pdf)
+~!Height (-)
+~!3D_Model (MAX30102EFD+)
+MAX30102EFD-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX30102EFD+
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=14
+Version=1.2
+Released=2017-02-16 17:22:35
+Downloaded=2023-05-27 16:31:10
+3D=Y
